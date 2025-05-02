@@ -22,4 +22,4 @@ To list your business, fill the form here:
 ---
 
 This project is deployed using **GitHub Pages**.  
-Visit: [https://yourusername.github.io/mapmybiz-site](https://yourusername.github.io/mapmybiz-site)
+Visit: [https://thedaddyxp.github.io/mapmybiz-site](https://thedaddyxp.github.io/mapmybiz-site)
